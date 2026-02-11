@@ -3,4 +3,5 @@
 <div style="font-size: 20; text-align: center;">
 Problems with cyber safety is not everyone understands how it works, you should probably NEVER trust any suspicious links
 </div>
-<kbd>[**INFORMATION**](https://johnnyonthelaptop2.github.com)</kbd>
+<a href="https://scamwebsite.com" class="button">DOWNLOAD FREE</a>
+websites like the button that was just above me, could also be suspicious, like DOWNLOAD
